@@ -55,6 +55,10 @@ def get_test_data(data, testing_data, scaler, window_size):
     return X, y
     
 def get_weekly_train_data(data, window_size):
+    """
+        Get weekly training data.
+        The length of the data minus window_size must be divisible by 5. 
+    """
     
     X, y = [], []
     
@@ -70,6 +74,7 @@ def get_weekly_train_data(data, window_size):
     return X, y
     
 def get_weekly_test_data(data, testing_data, scaler, window_size):
+    
     raw = data['Price'][len(data) - len(testing_data) - window_size:].values
     raw = raw.reshape(-1, 1)
     raw = scaler.transform(raw)
@@ -89,6 +94,10 @@ def get_weekly_test_data(data, testing_data, scaler, window_size):
     return X, y
     
 def get_monthly_train_data(data, window_size):
+    """
+        Get monthly training data.
+        The length of the data minus window_size must be divisible by 20.
+    """
     
     X, y = [], []
     
@@ -104,6 +113,7 @@ def get_monthly_train_data(data, window_size):
     return X, y
     
 def get_monthly_test_data(data, testing_data, scaler, window_size):
+    
     raw = data['Price'][len(data) - len(testing_data) - window_size:].values
     raw = raw.reshape(-1, 1)
     raw = scaler.transform(raw)
