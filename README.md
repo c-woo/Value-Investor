@@ -13,45 +13,52 @@ I used PyTorch to implement the LSTM model and there is a TensorFlow application
 
 ## CCB
 <img src='https://i.imgur.com/2LS2O8W.jpg'>
-Daily: N/A <br>
-Weekly: N/A <br>
-Monthly: N/A <br>
+
+- Daily: N/A
+- Weekly: N/A
+- Monthly: N/A
 
 ## DSMC
 <img src='https://i.imgur.com/f0nxPAm.jpg'>
-* Daily: +67.9%
-* Weekly: +30.4%
-* Monthly: +33.4%
+
+- Daily: +67.9%
+- Weekly: +30.4%
+- Monthly: +33.4%
 
 ## IMPJ
 <img src='https://i.imgur.com/zAlWU7H.jpg'>
-* Daily: +31.7%
-* Weekly: +35%
-* Monthly: +34.6%
+
+- Daily: +31.7%
+- Weekly: +35%
+- Monthly: +34.6%
 
 ## KCHOL
 <img src='https://i.imgur.com/F4wyaGZ.jpg'>
-* Daily: +16.3%
-* Weekly: -0.5%
-* Monthly: +5%
+
+- Daily: +16.3%
+- Weekly: -0.5%
+- Monthly: +5%
 
 ## MNHD
 <img src='https://i.imgur.com/IrhOzwT.jpg'>
-* Daily: +6.5%
-* Weekly: -6.6%
-* Monthly: +0.5%
+
+- Daily: +6.5%
+- Weekly: -6.6%
+- Monthly: +0.5%
 
 ## PAMP
 <img src='https://i.imgur.com/gFWF8S1.jpg'>
-* Daily: +25%
-* Weekly: +21%
-* Monthly: +17.5%
+
+- Daily: +25%
+- Weekly: +21%
+- Monthly: +17.5%
 
 ## SBER
 <img src='https://i.imgur.com/NWiL0pt.jpg'>
-* Daily: +10.8%
-* Weekly: N/A
-* Monthly: +8.5%
+
+- Daily: +10.8%
+- Weekly: N/A
+- Monthly: +8.5%
 
 # Conclusion
 
