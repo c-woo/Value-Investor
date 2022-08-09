@@ -6,15 +6,15 @@ I used PyTorch to implement the LSTM model and there is a TensorFlow application
 
 ## BEEF
 <img src='https://i.imgur.com/ME0yA73.jpg'>
-* Daily: +13.5%
-* Weekly: -3.5%
-* Monthly: +2.1%
+ * Daily: +13.5%
+ * Weekly: -3.5%
+ * Monthly: +2.1%
 
 ## CCB
 <img src='https://i.imgur.com/2LS2O8W.jpg'>
-* Daily: N/A
-* Weekly: N/A
-* Monthly: N/A
+Daily: N/A <br>
+Weekly: N/A <br>
+Monthly: N/A <br>
 
 ## DSMC
 <img src='https://i.imgur.com/f0nxPAm.jpg'>
