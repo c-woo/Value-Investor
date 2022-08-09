@@ -6,6 +6,7 @@ I used PyTorch to implement the LSTM model and there is a TensorFlow application
 
 ## BEEF
 <img src='https://i.imgur.com/ME0yA73.jpg'>
+
 - Daily: +13.5%
 - Weekly: -3.5%
 - Monthly: +2.1%
