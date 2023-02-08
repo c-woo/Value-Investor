@@ -1,6 +1,6 @@
 # Value Investor
  
-I'll be using a LSTM model in order to predict the daily, weekly, and monthly prices of various companies in order to give investment recommendations for the year 2021. I am hoping to be able to make investment recommendations that only turn a profit for each company to maximize the performance of a portfolio that holds these stocks. The investment recommendations and performances of each company is in their respective notebooks.
+I'll be using a LSTM model in order to predict the daily, weekly, and monthly prices of various companies in order to give investment recommendations for the year 2021. I am hoping to be able to make investment recommendations that only turn a profit for each company to maximize the performance of a portfolio that holds these stocks. The investment recommendations and performances for each company is in their respective notebooks.
 
 I used PyTorch to implement the LSTM model and there is a TensorFlow application of the LSTM model in the PAMP notebook. All the necessary modules and functions are located in the data_functions file.
 
@@ -17,6 +17,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## BEEF
 <img src='https://i.imgur.com/ME0yA73.jpg'>
 
+Returns using investment recommendations:
 - Daily: +13.5%
 - Weekly: -3.5%
 - Monthly: +2.1%
@@ -24,6 +25,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## CCB
 <img src='https://i.imgur.com/2LS2O8W.jpg'>
 
+Returns using investment recommendations:
 - Daily: N/A
 - Weekly: N/A
 - Monthly: N/A
@@ -31,6 +33,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## DSMC
 <img src='https://i.imgur.com/f0nxPAm.jpg'>
 
+Returns using investment recommendations:
 - Daily: +67.9%
 - Weekly: +30.4%
 - Monthly: +33.4%
@@ -38,6 +41,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## IMPJ
 <img src='https://i.imgur.com/zAlWU7H.jpg'>
 
+Returns using investment recommendations:
 - Daily: +31.7%
 - Weekly: +35%
 - Monthly: +34.6%
@@ -45,6 +49,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## KCHOL
 <img src='https://i.imgur.com/F4wyaGZ.jpg'>
 
+Returns using investment recommendations:
 - Daily: +16.3%
 - Weekly: -0.5%
 - Monthly: +5%
@@ -52,6 +57,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## MNHD
 <img src='https://i.imgur.com/IrhOzwT.jpg'>
 
+Returns using investment recommendations:
 - Daily: +6.5%
 - Weekly: -6.6%
 - Monthly: +0.5%
@@ -59,6 +65,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## PAMP
 <img src='https://i.imgur.com/gFWF8S1.jpg'>
 
+Returns using investment recommendations:
 - Daily: +25%
 - Weekly: +21%
 - Monthly: +17.5%
@@ -66,6 +73,7 @@ The data is from a set of portfolio companies trading data from emerging markets
 ## SBER
 <img src='https://i.imgur.com/NWiL0pt.jpg'>
 
+Returns using investment recommendations:
 - Daily: +10.8%
 - Weekly: N/A
 - Monthly: +8.5%
