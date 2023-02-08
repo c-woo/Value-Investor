@@ -4,6 +4,16 @@ I'll be using a LSTM model in order to predict the daily, weekly, and monthly pr
 
 I used PyTorch to implement the LSTM model and there is a TensorFlow application of the LSTM model in the PAMP notebook. All the necessary modules and functions are located in the data_functions file.
 
+## Data
+The data is from a set of portfolio companies trading data from emerging markets including 2020 Q1-Q4 and 2021 Q1 stock prices. Each company stock is provided in different sheets and each market's operating days varies based on the country of the company and the market the stocks are exchanged.
+> **Date:** Date
+> **Price:** Closing price of stock  
+> **Open:** Opening price of stock  
+> **High:** Highest price stock reached during day  
+> **Low:** Lowest price stock reached during day  
+> **Vol.:** Number of shares traded during day  
+> **Change %:** Percentage change of closing price from previous day's close  
+
 ## BEEF
 <img src='https://i.imgur.com/ME0yA73.jpg'>
 
