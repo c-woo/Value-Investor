@@ -6,7 +6,7 @@ I used PyTorch to implement the LSTM model and there is a TensorFlow application
 
 ## Data
 The data is from a set of portfolio companies trading data from emerging markets including 2020 Q1-Q4 and 2021 Q1 stock prices. Each company stock is provided in different sheets and each market's operating days varies based on the country of the company and the market the stocks are exchanged.
-> **Date:** Date
+> **Date:** Date  
 > **Price:** Closing price of stock  
 > **Open:** Opening price of stock  
 > **High:** Highest price stock reached during day  
